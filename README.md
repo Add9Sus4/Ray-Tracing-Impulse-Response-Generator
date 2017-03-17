@@ -1,7 +1,7 @@
 # Ray-Tracing-Impulse-Response-Generator
 Synthesizes a room impulse response using a ray tracing simulation engine.
 
-![Screenshot](ss1.png)
+![Screenshot](ss2.png)
 
 A room impulse response (RIR) is a measure of the acoustic response of a physical space to an impulse (a short burst of sound).
 
