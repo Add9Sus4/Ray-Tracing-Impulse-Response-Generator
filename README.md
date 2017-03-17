@@ -1,6 +1,8 @@
 # Ray-Tracing-Impulse-Response-Generator
 Synthesizes a room impulse response using a ray tracing simulation engine.
 
+![Screenshot](ss1.png)
+
 A room impulse response (RIR) is a measure of the acoustic response of a physical space to an impulse (a short burst of sound).
 
 Typically RIRs are obtained by recording a pistol shot or balloon pop with a microphone placed inside of the room. An RIR can also be obtained by playing a sine sweep through a loudspeaker, recording the result with a microphone, and then deconvolving the resulting sound with the original sine sweep to obtain the impulse response.
