@@ -13,7 +13,7 @@ This is a simple program that ignores phenomena such as diffraction and interfer
 
 The program has two modes: one mode computes the impulse response quickly but does not provide a visual aid; the other allows the user to view the rays as they propagate throughout the virtual space, which can be interesting but takes a lot longer (as some of the rays might reflect many times before they hit the microphone).
 
-Additional notes:
+**Additional notes:**
 
 The ray tracing algorithm used in this model is stochastic, meaning that rays are randomly given initial direction vectors, and this means that it is not guaranteed, even with identical starting parameters, to produce the same exact impulse response each time it is run.
 
